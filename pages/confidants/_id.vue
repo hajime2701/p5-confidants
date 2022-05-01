@@ -107,6 +107,15 @@ export default Vue.extend({
       entryItems: entries,
     }
   },
+
+  head() {
+    const index: number = parseInt(this.$route.params.id)
+    const confidantData = data[index-1]
+    
+    return {
+     title: confidantData.confidant
+    }
+  },
 })
 </script>
 

@@ -34,6 +34,12 @@ export default Vue.extend({
       confidants: confidantsData,
     }
   },
+
+  head() {
+    return {
+      title: "Home"
+    }
+  },
 })
 </script>
 
