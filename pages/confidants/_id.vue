@@ -23,7 +23,18 @@
         :key="entry.header"
         class="justify-content-center"
       >
-        <h2 class="entry-header">{{ entry.header }}</h2>
+        <b-table-simple borderless=true>
+          <b-tr>
+            <b-td class="text-center">
+              <h2 class="entry-header">{{ entry.header }}</h2>
+            </b-td>
+          </b-tr>
+          <b-tr v-if="entry.sub">
+            <b-td class="text-center">
+              <h4 class="entry-header">{{ entry.sub }}</h4>
+            </b-td>
+          </b-tr>
+        </b-table-simple>
         <b-table
           :fields="entryFields"
           :items="entry.contents"
@@ -41,9 +52,9 @@ import Vue from 'vue'
 import data from '~/static/json/confidant_data.json'
 
 export default Vue.extend({
-    data() {
+  data() {
     const index: number = parseInt(this.$route.params.id)
-    const confidantData = data[index-1]
+    const confidantData = data[index - 1]
     const bFields = [
       { key: 'Rank', tdClass: 'b-rank' },
       { key: 'Ability' },
@@ -73,31 +84,29 @@ export default Vue.extend({
       { key: 'resp3' },
     ]
 
-    confidantData.data
-      .slice(1)
-      .forEach(function (x) {
-        const eItems: {
-          label: string
-          resp1: string
-          resp2: string
-          resp3: string
-        }[] = []
+    confidantData.data.slice(1).forEach(function (x) {
+      const eItems: {
+        label: string
+        resp1: string
+        resp2: string
+        resp3: string
+      }[] = []
 
-        x.entries.forEach(function (y: string | any[]) {
-          eItems.push({
-            label: y[0],
-            resp1: y[1],
-            resp2: y[2],
-            resp3: y.length === 4 ? y[3] : '',
-          })
-        })
-
-        entries.push({
-          header: x.header,
-          sub: x.sub,
-          contents: eItems
+      x.entries.forEach(function (y: string | any[]) {
+        eItems.push({
+          label: y[0],
+          resp1: y[1],
+          resp2: y[2],
+          resp3: y.length === 4 ? y[3] : '',
         })
       })
+
+      entries.push({
+        header: x.header,
+        sub: x.sub,
+        contents: eItems,
+      })
+    })
 
     return {
       name: confidantData.confidant,
@@ -110,10 +119,10 @@ export default Vue.extend({
 
   head() {
     const index: number = parseInt(this.$route.params.id)
-    const confidantData = data[index-1]
-    
+    const confidantData = data[index - 1]
+
     return {
-     title: confidantData.confidant
+      title: confidantData.confidant,
     }
   },
 })
@@ -128,6 +137,7 @@ export default Vue.extend({
 
 .entry-header {
   align-content: center;
+  color: white;
 }
 
 .b-rank {
