@@ -38,13 +38,12 @@
 
 <script lang="ts">
 import Vue from 'vue'
+import data from '~/static/json/confidant_data.json'
 
 export default Vue.extend({
-  async asyncData(context) {
-    const response = await context.$axios.get('json/confidant_data.json')
-    const data = response.data
-    const index: number = +context.route.params.id
-    const confidantData = data[index]
+    data() {
+    const index: number = parseInt(this.$route.params.id)
+    const confidantData = data[index-1]
     const bFields = [
       { key: 'Rank', tdClass: 'b-rank' },
       { key: 'Ability' },
@@ -76,11 +75,7 @@ export default Vue.extend({
 
     confidantData.data
       .slice(1)
-      .forEach(function (x: {
-        header: string
-        sub: string
-        entries: string[]
-      }) {
+      .forEach(function (x) {
         const eItems: {
           label: string
           resp1: string

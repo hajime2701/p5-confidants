@@ -17,11 +17,10 @@
 
 <script lang="ts">
 import Vue from 'vue'
+import data from '~/static/json/confidant_data.json'
 
 export default Vue.extend({
-  async asyncData({ $axios }) {
-    const response = await $axios.get('json/confidant_data.json')
-    const data = response.data
+  data() {
     const confidantsData: { name: any; index: number }[] = []
 
     data.forEach(function (x: any, i: number) {
