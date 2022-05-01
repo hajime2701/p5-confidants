@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/confidants/14", {data:[{}],fetch:{},mutations:void 0});
