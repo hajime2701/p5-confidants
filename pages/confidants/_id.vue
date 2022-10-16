@@ -23,7 +23,7 @@
         :key="entry.header"
         class="justify-content-center"
       >
-        <b-table-simple borderless=true>
+        <b-table-simple borderless="true">
           <b-tr>
             <b-td class="text-center">
               <h2 class="entry-header">{{ entry.header }}</h2>

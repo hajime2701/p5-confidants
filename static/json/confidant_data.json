@@ -3,7 +3,7 @@
         "confidant": "Chariot (Ryuji Sakamoto)",
         "data": [
             {
-                "header": "Benefits",
+                "header": "Benefits:",
                 "sub": "",
                 "entries": [
                     [
@@ -309,7 +309,7 @@
         "confidant": "Death (Tae Takemi)",
         "data": [
             {
-                "header": "Benefits",
+                "header": "Benefits:",
                 "sub": "",
                 "entries": [
                     [
@@ -662,7 +662,7 @@
         "confidant": "Devil (Ichiko Ohya)",
         "data": [
             {
-                "header": "Benefits",
+                "header": "Benefits:",
                 "sub": "",
                 "entries": [
                     [
@@ -1028,7 +1028,7 @@
         "confidant": "Emperor (Yusuke Kitagawa)",
         "data": [
             {
-                "header": "Benefits",
+                "header": "Benefits:",
                 "sub": "",
                 "entries": [
                     [
@@ -1346,7 +1346,7 @@
         "confidant": "Empress (Haru Okumura)",
         "data": [
             {
-                "header": "Benefits",
+                "header": "Benefits:",
                 "sub": "",
                 "entries": [
                     [
@@ -1730,7 +1730,7 @@
         "confidant": "Fortune (Chihaya Mifune)",
         "data": [
             {
-                "header": "Benefits",
+                "header": "Benefits:",
                 "sub": "",
                 "entries": [
                     [
@@ -2086,7 +2086,7 @@
         "confidant": "Hanged (Munehisa Iwai)",
         "data": [
             {
-                "header": "Benefits",
+                "header": "Benefits:",
                 "sub": "",
                 "entries": [
                     [
@@ -2445,7 +2445,7 @@
         "confidant": "Hermit (Futaba Sakura)",
         "data": [
             {
-                "header": "Benefits",
+                "header": "Benefits:",
                 "sub": "",
                 "entries": [
                     [
@@ -2795,7 +2795,7 @@
         "confidant": "Hierophant (Sojiro Sakura)",
         "data": [
             {
-                "header": "Benefits",
+                "header": "Benefits:",
                 "sub": "",
                 "entries": [
                     [
@@ -3076,7 +3076,7 @@
         "confidant": "Lovers (Ann Takamaki)",
         "data": [
             {
-                "header": "Benefits",
+                "header": "Benefits:",
                 "sub": "",
                 "entries": [
                     [
@@ -3510,7 +3510,7 @@
         "confidant": "Moon (Yuuki Mishima)",
         "data": [
             {
-                "header": "Benefits",
+                "header": "Benefits:",
                 "sub": "",
                 "entries": [
                     [
@@ -3869,7 +3869,7 @@
         "confidant": "Priestess (Makoto Niijima)",
         "data": [
             {
-                "header": "Benefits",
+                "header": "Benefits:",
                 "sub": "",
                 "entries": [
                     [
@@ -4248,7 +4248,7 @@
         "confidant": "Star (Hifumi Togo)",
         "data": [
             {
-                "header": "Benefits",
+                "header": "Benefits:",
                 "sub": "",
                 "entries": [
                     [
@@ -4570,7 +4570,7 @@
         "confidant": "Sun (Toranosuke Yoshida)",
         "data": [
             {
-                "header": "Benefits",
+                "header": "Benefits:",
                 "sub": "",
                 "entries": [
                     [
@@ -4833,7 +4833,7 @@
         "confidant": "Temperance (Sadayo Kawakami)",
         "data": [
             {
-                "header": "Benefits",
+                "header": "Benefits:",
                 "sub": "",
                 "entries": [
                     [
@@ -5237,7 +5237,7 @@
         "confidant": "Tower (Shinya Oda)",
         "data": [
             {
-                "header": "Benefits",
+                "header": "Benefits:",
                 "sub": "",
                 "entries": [
                     [
@@ -5563,6 +5563,1320 @@
                         ""
                     ]
                 ]
+            }
+        ]
+    },
+    {
+        "confidant": "Faith (Kasumi Yoshizawa)",
+        "data": [
+            {
+                "header": "Benefits:",
+                "sub": "",
+                "entries": [
+                    [
+                        "Rank",
+                        "Ability",
+                        "Description"
+                    ],
+                    [
+                        "2",
+                        "Tumbling",
+                        "Allows you to avoid being surround by enemies in Palaces"
+                    ],
+                    [
+                        "4",
+                        "Chaines Hook",
+                        "Allows you to ambush from a distance by attacking with the grappling hook."
+                    ],
+                    [
+                        "6",
+                        "Follow Up",
+                        "Chance to perform a follow-up attack if Joker\u2019s attack does not down the enemy."
+                    ],
+                    [
+                        "6",
+                        "Fitness Talk",
+                        "If negotiation with any kind of Shadow fails, you can try again."
+                    ],
+                    [
+                        "7",
+                        "Harisen Recovery",
+                        "Chance to cure status ailments inflicted upon party members."
+                    ],
+                    [
+                        "8",
+                        "Endure",
+                        "Chance to withstand an otherwise fatal attack with 1 HP remaining."
+                    ],
+                    [
+                        "9",
+                        "Protect",
+                        "Chance to shield Joker from an otherwise fatal attack."
+                    ],
+                    [
+                        "MAX",
+                        "Second Awakening",
+                        "Transforms Person into a mythological trickster."
+                    ],
+                    [
+                        "ROYAL",
+                        "Second Awakening R",
+                        "Fuse with the mythological Trickster, awakening its true power."
+                    ]
+                ]
+            },
+            {
+                "header": "Rank 2",
+                "sub": "",
+                "entries": [
+                    [
+                        "Response 1",
+                        "We\u2019re just getting started. +2",
+                        "Go easy on me. +0",
+                        "I\u2019m so done with this. +2"
+                    ],
+                    [
+                        "Response 2",
+                        "Next time, then. +2",
+                        "You doing okay? +0",
+                        "Lucky for me\u2026 +0"
+                    ],
+                    [
+                        "Response 3",
+                        "I see. +0",
+                        "So now\u2026? +0",
+                        ""
+                    ],
+                    [
+                        "Response 4",
+                        "No problem. +0",
+                        "You sure? +0",
+                        "Uh, romantically? +0"
+                    ],
+                    [
+                        "Response 5",
+                        "Leave it to me. +0",
+                        "Let\u2019s give it a try. +0",
+                        "Then follow my lead. +0"
+                    ],
+                    [
+                        "Followup",
+                        "Impressive. +2",
+                        "Gotta push through it. +0",
+                        "You did eat eventually, right? +0"
+                    ]
+                ]
+            },
+            {
+                "header": "Rank 3",
+                "sub": "",
+                "entries": [
+                    [
+                        "Response 1",
+                        "Making bento? +3",
+                        "Potluck parties? +0",
+                        "\u201cThis\u201d being\u2026? +0"
+                    ],
+                    [
+                        "Response 2",
+                        "I\u2019m touched! +2",
+                        "It looks delicious. +2",
+                        "Let\u2019s see if it\u2019s good\u2026 +0"
+                    ],
+                    [
+                        "Response 3",
+                        "Is that all for you? +3",
+                        "That seems a little much. +2",
+                        "What IS that? +0"
+                    ],
+                    [
+                        "Response 4",
+                        "This tastes like\u2026 +0",
+                        "It\u2019s definitely unique. +2",
+                        "It\u2019s\u2026 greeeaaat\u2026 +0"
+                    ],
+                    [
+                        "Response 5",
+                        "Not exactly. +0",
+                        "Is there a third option\u2026? +0",
+                        ""
+                    ],
+                    [
+                        "Response 6",
+                        "Calm down. +0",
+                        "You\u2019re going to get it now? +0",
+                        ""
+                    ],
+                    [
+                        "Response 7",
+                        "This works fine as is. +0",
+                        "I\u2019m enjoying this. +0",
+                        "Let\u2019s just eat. +0"
+                    ],
+                    [
+                        "Response 8",
+                        "You could try again sometime? +3",
+                        "It happens. +3",
+                        "Just keep at it. +3"
+                    ],
+                    [
+                        "Response 9",
+                        "That sounds right. +0",
+                        "Maybe\u2026 +0",
+                        ""
+                    ]
+                ]
+            },
+            {
+                "header": "Rank 4",
+                "sub": "",
+                "entries": [
+                    [
+                        "Response 1",
+                        "You have bad eyesight? +0",
+                        "You\u2019re looking to buy? +2",
+                        "I have enough glasses. +0"
+                    ],
+                    [
+                        "Response 2",
+                        "A pretty modern look. +3",
+                        "Not my style. +0",
+                        "I look so aloof in these. +2"
+                    ],
+                    [
+                        "Response 3",
+                        "Do they suit your dad, though? =0",
+                        "I\u2019m not so sure\u2026 +0",
+                        ""
+                    ],
+                    [
+                        "Response 4",
+                        "Of course. +2",
+                        "Let\u2019s keep going. +2",
+                        "Sure, whatever. +0"
+                    ],
+                    [
+                        "Response 5",
+                        "Trust your instincts. +0",
+                        "Don\u2019t overthink it. +0",
+                        ""
+                    ],
+                    [
+                        "Response 6",
+                        "Good choice. +2",
+                        "I\u2019m sure he\u2019ll love it. +0",
+                        ""
+                    ],
+                    [
+                        "Response 7",
+                        "It\u2019s part of our deal. +0",
+                        "Not a problem at all. +0",
+                        "I expect compensation. +0"
+                    ],
+                    [
+                        "Response 8",
+                        "Everyone deals with that. +2",
+                        "That\u2019s your slump talking. +0",
+                        ""
+                    ],
+                    [
+                        "Response 9",
+                        "Good luck. +0",
+                        "We\u2019ll work at it together. +2",
+                        "No rush, though. +0"
+                    ],
+                    [
+                        "Followup",
+                        "I\u2019m glad to hear that. +2",
+                        "You should\u00a0 be more confident. +2",
+                        "Of course he is. +0"
+                    ]
+                ]
+            },
+            {
+                "header": "Rank 5",
+                "sub": "",
+                "entries": [
+                    [
+                        "Response 1",
+                        "It\u2019s a surprise, yea. +2",
+                        "Not at all. +0",
+                        "What are you scheming? +0"
+                    ],
+                    [
+                        "Response 2",
+                        "This seems kind of sudden. +0",
+                        "If I\u2019m just watching\u2026 +0",
+                        ""
+                    ],
+                    [
+                        "Response 3",
+                        "It\u2019s a good idea. +2",
+                        "Go ahead. I\u2019ll watch. +3",
+                        "Maybe stick to gymnastics. +0"
+                    ],
+                    [
+                        "Response 4",
+                        "Don\u2019t give up. +0",
+                        "Just don\u2019t lose hope. +0",
+                        "You can beat this, right? +0"
+                    ],
+                    [
+                        "Response 5",
+                        "Congratulations. +3",
+                        "I saw! +3",
+                        "How\u2019s that feel? +2"
+                    ],
+                    [
+                        "Response 6",
+                        "That\u2019s important. +3",
+                        "Don\u2019t forget how that feels. +2",
+                        ""
+                    ],
+                    [
+                        "Response 7",
+                        "Nicely done. +0",
+                        "It\u2019s not over yet. +0",
+                        ""
+                    ],
+                    [
+                        "Followup",
+                        "Swimming. +3",
+                        "Running. +2",
+                        "Gymnastics. +3"
+                    ]
+                ]
+            },
+            {
+                "header": "Rank 6",
+                "sub": "Requires Moving Towards the True Ending",
+                "entries": [
+                    [
+                        "Response 1",
+                        "It wasn\u2019t on purpose. +0",
+                        "What could you have done? +0",
+                        "At least you realize it now. +0"
+                    ],
+                    [
+                        "Response 2",
+                        "Don\u2019t beat yourself up. +0",
+                        "What\u2019ll you do now? +0",
+                        "Calm down. +0"
+                    ],
+                    [
+                        "Response 3",
+                        "You two were close, then. +0",
+                        "Those must be good memories. +0",
+                        "All for ice cream, huh? +0"
+                    ],
+                    [
+                        "Response 4",
+                        "\u2026 That IS genius. +0",
+                        "How old was she again? +0",
+                        ""
+                    ],
+                    [
+                        "Response 5",
+                        "She cared about you. +0",
+                        "Sounds like tough training. +0",
+                        ""
+                    ],
+                    [
+                        "Response 6",
+                        "Why? +0",
+                        "I can imagine. +0",
+                        ""
+                    ],
+                    [
+                        "Response 7",
+                        "It must have been hard. +0",
+                        "What about Kasumi\u2019s feelings? +0",
+                        "Sounds like running away. +0"
+                    ],
+                    [
+                        "Response 8",
+                        "You have to accept it. +0",
+                        "Try not to think about it. +0",
+                        "So what happens now? +0"
+                    ],
+                    [
+                        "Response 9",
+                        "I will. +0",
+                        "I can manage that. +0",
+                        "If it\u2019s part of the deal. +0"
+                    ],
+                    [
+                        "Followup",
+                        "Do you want to run away? +0",
+                        "You have to face it. +3",
+                        "So what if it is? +3"
+                    ]
+                ]
+            },
+            {
+                "header": "Rank 7",
+                "sub": "",
+                "entries": [
+                    [
+                        "Response 1",
+                        "Maybe. +0",
+                        "Who Knows? +0",
+                        "Were you frustrated? +0"
+                    ],
+                    [
+                        "Response 2",
+                        "Is she scary? +0",
+                        "Is she strict? +0",
+                        ""
+                    ],
+                    [
+                        "Response 3",
+                        "You okay? +3",
+                        "That was a big sigh. +0",
+                        "She\u2019s a real taskmaster. +0"
+                    ],
+                    [
+                        "Response 4",
+                        "That isn\u2019t true. +3",
+                        "You need more confidence. +0",
+                        "That\u2019s just a mental block. +0"
+                    ],
+                    [
+                        "Response 5",
+                        "It\u2019ll be like a duet. +0",
+                        "You\u2019ll become stronger. +0",
+                        ""
+                    ],
+                    [
+                        "Response 6",
+                        "Of course. +3",
+                        "I could watch you forever. +3",
+                        "Another love confession? +3"
+                    ],
+                    [
+                        "Followup",
+                        "I was internally screaming. +0",
+                        "Yeah, it was a breeze. +0",
+                        "I love a good challenge. +3"
+                    ]
+                ]
+            },
+            {
+                "header": "Rank 8",
+                "sub": "",
+                "entries": [
+                    [
+                        "Response 1",
+                        "Walk up to Sumire. +3",
+                        "Watch her from a distance. +0",
+                        "Slowly walk away. +0"
+                    ],
+                    [
+                        "Response 2",
+                        "Look at yourself. +0",
+                        "You\u2019re just standing out. +0",
+                        ""
+                    ],
+                    [
+                        "Response 3",
+                        "Try to stay positive. +3",
+                        "I\u2019m here for you. +3",
+                        "It\u2019ll work out. +3"
+                    ],
+                    [
+                        "Response 4",
+                        "What is it? +0",
+                        "\u2026\u2026 +0",
+                        ""
+                    ],
+                    [
+                        "Response 5",
+                        "You started it. +0",
+                        "What, I can\u2019t look at you? +0",
+                        ""
+                    ],
+                    [
+                        "Response 6",
+                        "It looks great. +3",
+                        "You look really cute. +3",
+                        "I\u2019m in love. +3"
+                    ],
+                    [
+                        "Response 7",
+                        "Did I help? +0",
+                        "You found your answer? +0",
+                        ""
+                    ],
+                    [
+                        "Response 8",
+                        "I see\u2026 +0",
+                        "So that\u2019s how it was. +0",
+                        ""
+                    ],
+                    [
+                        "Response 9",
+                        "That\u2019s how it should be. +3",
+                        "Sounds like progress. +3",
+                        ""
+                    ],
+                    [
+                        "Followup",
+                        "The airsoft shop. +0",
+                        "The resale shop. +3",
+                        "Online. +3"
+                    ]
+                ]
+            },
+            {
+                "header": "Rank 9",
+                "sub": "",
+                "entries": [
+                    [
+                        "Response 1",
+                        "It\u2019s no problem. +3",
+                        "We\u2019ll call it holiday hours. +3",
+                        ""
+                    ],
+                    [
+                        "Response 2",
+                        "Definitely. +3",
+                        "Of course. +3",
+                        ""
+                    ],
+                    [
+                        "Response 3",
+                        "Of course I do. +3",
+                        "Vaguely\u2026 +0",
+                        "What about it? +0"
+                    ],
+                    [
+                        "Response 4",
+                        "I know you did. +3",
+                        "You\u2019re not worthless. +3",
+                        "This is a new beginning. +3"
+                    ],
+                    [
+                        "Response 5",
+                        "What\u2019s going on? +0",
+                        "There\u2019s something else? +0",
+                        "Go ahead. +3"
+                    ],
+                    [
+                        "Response 6",
+                        "What? +0",
+                        "In luh? +0",
+                        ""
+                    ],
+                    [
+                        "Response 7",
+                        "Let\u2019s stay friends, okay? +0",
+                        "I love you too. +0 (ROMANCE)",
+                        ""
+                    ],
+                    [
+                        "Response 8",
+                        "Calm down. +3",
+                        "Take your time. +3",
+                        ""
+                    ],
+                    [
+                        "Response 9",
+                        "So? Any different? +3",
+                        "You are so red right now. +3",
+                        "You\u2019re so cute. +3"
+                    ],
+                    [
+                        "Followup",
+                        "Get used to it. +3",
+                        "Should I hang up\u2026? +0",
+                        "That\u2019s just how it is. +0"
+                    ]
+                ]
+            },
+            {
+                "header": "Rank MAX (ROMANCE)",
+                "sub": "",
+                "entries": [
+                    [
+                        "Response 1",
+                        "You look radiant today. +0",
+                        "Now I\u2019m getting nervous. +0",
+                        ""
+                    ],
+                    [
+                        "Response 2",
+                        "It\u2019s all Sumire. +0",
+                        "Just watch. +0",
+                        ""
+                    ],
+                    [
+                        "Response 3",
+                        "Calm down. +0",
+                        "Don\u2019t rush it. +0",
+                        ""
+                    ],
+                    [
+                        "Response 4",
+                        "You must be happy. +0",
+                        "I\u2019m so relieved. +0",
+                        "It\u2019s only natural, Sumire. +0"
+                    ],
+                    [
+                        "Response 5",
+                        "And that is\u2026? +3",
+                        "What do you mean? +3",
+                        "Is it someone you love? +3"
+                    ],
+                    [
+                        "Response 6",
+                        "And there\u2019s more to come. +0",
+                        "You were amazing out there. +0",
+                        ""
+                    ],
+                    [
+                        "Response 7",
+                        "I\u2019ll stop if you want. + 0",
+                        "I feel the same way. +0",
+                        "I don\u2019t want to let you go. +0"
+                    ],
+                    [
+                        "Followup",
+                        "I\u2019m counting on you. +3",
+                        "Don\u2019t get ahead of yourself. +3",
+                        "We\u2019re our world\u2019s champions. +3"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "confidant": "Justice (Goro Akechi)",
+        "data": [
+            {
+                "header": "Benefits:",
+                "sub": "",
+                "entries": [
+                    [
+                        "Rank",
+                        "Ability",
+                        "Description"
+                    ],
+                    [
+                        "2",
+                        "Sleuthing Instinct",
+                        "Chance to reveal one enemy affinity at the start of battle."
+                    ],
+                    [
+                        "4",
+                        "Smooth Talk",
+                        "If negotiation with a god-like Shadow fails, you can try again."
+                    ],
+                    [
+                        "6",
+                        "Sleuthing Mastery",
+                        "Chance to reveal all of one enemy\u2019s affinities at the start of battle."
+                    ],
+                    [
+                        "6",
+                        "Follow Up",
+                        "Chance to perform a follow-up attack if Joker\u2019s attack does not down the enemy."
+                    ],
+                    [
+                        "7",
+                        "Harisen Recovery",
+                        "Chance to cure status ailments inflicted upon party members."
+                    ],
+                    [
+                        "MAX",
+                        "Endure",
+                        "Chance to withstand an otherwise fatal attack with 1 HP remaining."
+                    ],
+                    [
+                        "MAX",
+                        "Protect",
+                        "Chance to shield Joker from an otherwise fatal attack."
+                    ],
+                    [
+                        "ROYAL",
+                        "Second Awakening R",
+                        "Fuse with the mythological Trickster, awakening its true power."
+                    ]
+                ]
+            },
+            {
+                "header": "Rank 2",
+                "sub": "",
+                "entries": [
+                    [
+                        "Response 1",
+                        "You always seem so busy. +2",
+                        "Do you have no friends? +0"
+                    ],
+                    [
+                        "Response 2",
+                        "Is that your win? +0",
+                        "Not bad. +0"
+                    ],
+                    [
+                        "Response 3",
+                        "Shoot very carefully. +2",
+                        "I\u2019ll go for a power shot. +2"
+                    ],
+                    [
+                        "Response 4",
+                        "You used your right hand. +0",
+                        "\u2026Aren\u2019t you left-handed? +0"
+                    ],
+                    [
+                        "Response 5",
+                        "Maybe i\u2019ll be a detective. +2",
+                        "No holding back next time. +2",
+                        "I see a lot of things. +3"
+                    ],
+                    [
+                        "Followup",
+                        "Sure. +0",
+                        "I\u2019ll think about it. +0",
+                        "As rivals? +2"
+                    ]
+                ]
+            },
+            {
+                "header": "Rank 3",
+                "sub": "Level 3 Charm Required",
+                "entries": [
+                    [
+                        "Response 1",
+                        "Got a sweet tooth, huh? +0",
+                        "Come here often? +0"
+                    ],
+                    [
+                        "Response 2",
+                        "Should\u2019ve figured. +3",
+                        "Your life must be so hard. +2",
+                        "I can shoo them away\u2026 +0"
+                    ],
+                    [
+                        "Response 3",
+                        "You\u2019ve done nothing wrong. +0",
+                        "Why the rush? +0"
+                    ],
+                    [
+                        "Response 4",
+                        "How about we find out? +0",
+                        "Come here a sec. +0"
+                    ],
+                    [
+                        "Response 5",
+                        "You looked great. +0",
+                        "It was a necessary evil. +0",
+                        "I should\u2019ve taken a picture. +0"
+                    ],
+                    [
+                        "Followup",
+                        "That was careless, huh? +0",
+                        "Wasn\u2019t it fun? +2",
+                        "I can always dress you up again."
+                    ]
+                ]
+            },
+            {
+                "header": "Rank 4",
+                "sub": "",
+                "entries": [
+                    [
+                        "Response 1",
+                        "What kind of place is this? +0",
+                        "This looks shady\u2026 +0",
+                        ""
+                    ],
+                    [
+                        "Response 2",
+                        "Do they have coffee? +2",
+                        "But I\u2019m underage. +0",
+                        "Now this is my kind of club. +3"
+                    ],
+                    [
+                        "Response 3",
+                        "Any recommendations? +3",
+                        "Anything\u2019s fine by me. +2",
+                        "An ice-cold beer for me. +0"
+                    ],
+                    [
+                        "Response 4",
+                        "It\u2019s a great place. +2",
+                        "I feel a bit nervous. +0",
+                        ""
+                    ],
+                    [
+                        "Response 5",
+                        "A run-down cafe. +0",
+                        "A shop with great coffee. +0",
+                        "I live there, actually. +0"
+                    ],
+                    [
+                        "Response 6",
+                        "Pretty frequently. +3",
+                        "I can use a microwave. +3",
+                        "All I need is curry. +2"
+                    ],
+                    [
+                        "Followup",
+                        "What are you talking about? +0",
+                        "I kinda get it. +2",
+                        "You really are having fun. +0"
+                    ]
+                ]
+            },
+            {
+                "header": "Rank 5",
+                "sub": "",
+                "entries": [
+                    [
+                        "Response 1",
+                        "All the time. +0",
+                        "I\u2019m not great at them. +0",
+                        "Have you played any? +0"
+                    ],
+                    [
+                        "Response 2",
+                        "Are you used to gunplay? +2",
+                        "You took that seriously, huh. +0",
+                        ""
+                    ],
+                    [
+                        "Response 3",
+                        "You wanted to be a hero? +3",
+                        "Very interesting. +2",
+                        "Hard to imagine. +0"
+                    ],
+                    [
+                        "Response 4",
+                        "Sticking to your justice. +0",
+                        "Doing what people want. +0",
+                        "Neither, really. +0"
+                    ],
+                    [
+                        "Followup",
+                        "You did fine. +2",
+                        "You\u2019ve got a long way to go. +2",
+                        "You were getting cocky. +2"
+                    ]
+                ]
+            },
+            {
+                "header": "Rank 6",
+                "sub": "",
+                "entries": [
+                    [
+                        "Response 1",
+                        "So relaxing\u2026 +2",
+                        "Seeing you here is weird. +0",
+                        "A while, huh? +3"
+                    ],
+                    [
+                        "Response 2",
+                        "That was horrible of her. +0",
+                        "\u2026 You\u2019ve been through a lot. +2",
+                        ""
+                    ],
+                    [
+                        "Response 3",
+                        "This is nothing. +3",
+                        "I\u2019ll stay until you\u2019re ready. +3",
+                        "Are YOU okay? +2"
+                    ],
+                    [
+                        "Response 4",
+                        "Same. +3",
+                        "I\u2019m just fine. +0",
+                        "Guess I win. +2"
+                    ],
+                    [
+                        "Response 5",
+                        "Because we get along. +2",
+                        "Because we\u2019re similar. +2",
+                        ""
+                    ],
+                    [
+                        "Response 6",
+                        "I think you\u2019re right. +3",
+                        "I don\u2019t know about that. +0",
+                        "Can I put my clothes on? +2"
+                    ],
+                    [
+                        "Followup",
+                        "True. +0",
+                        "They\u2019d probably love it. +0",
+                        "My bad, I guess. +2"
+                    ]
+                ]
+            },
+            {
+                "header": "Rank 7",
+                "sub": "Level 4 Knowledge Required",
+                "entries": [
+                    [
+                        "Response 1",
+                        "Yeah, it\u2019s convoluted. +2",
+                        "That\u2019s why it\u2019s so fun. +3",
+                        ""
+                    ],
+                    [
+                        "Response 2",
+                        "The psychotic breakdowns. +0",
+                        "What\u2019re you getting at? +0",
+                        ""
+                    ],
+                    [
+                        "Response 3",
+                        "I\u2019ve made up my mind. +0",
+                        "I won\u2019t miss my shot. +0",
+                        ""
+                    ],
+                    [
+                        "Response 4",
+                        "It\u2019s thanks to you. +2",
+                        "I couldn\u2019t let myself lose. +3",
+                        ""
+                    ],
+                    [
+                        "Response 5",
+                        "But we\u2019re teammates now. +0",
+                        "Wnat to join us? +0",
+                        ""
+                    ],
+                    [
+                        "Response 6",
+                        "I\u2019ll think about it. +0",
+                        "I\u2019m not doing that. +0",
+                        "You\u2019re my rival. +0"
+                    ],
+                    [
+                        "Followup",
+                        "Do I? +0",
+                        "I don\u2019t know. +0",
+                        "We\u2019re rivals, aren\u2019t we? +2"
+                    ]
+                ]
+            },
+            {
+                "header": "Rank 8",
+                "sub": "",
+                "entries": [
+                    [
+                        "Response 1",
+                        "What\u2019d you want to discuss? +0",
+                        "Why are we in Mementos? +0"
+                    ],
+                    [
+                        "Response 2",
+                        "I thought you meant in pool. +0",
+                        "You want to fight? +0",
+                        "But why, though? +0"
+                    ],
+                    [
+                        "Response 3",
+                        "All right. +0",
+                        "Let\u2019s do this. +0"
+                    ],
+                    [
+                        "Response 4",
+                        "Are you satisfied? +0",
+                        "Was that all you got? +0",
+                        "Do you want to keep going? +0"
+                    ],
+                    [
+                        "Response 5",
+                        "I\u2019d say the same for you. +0",
+                        "The feeling mutual. +0"
+                    ],
+                    [
+                        "Response 6",
+                        "I definitely wouldn\u2019t lose. +3",
+                        "I don\u2019t know. +0",
+                        "Probably. +0"
+                    ],
+                    [
+                        "Response 7",
+                        "Same here. +0",
+                        "Really hate losing, don\u2019t you. +3"
+                    ],
+                    [
+                        "Response 8",
+                        "I accept. +0",
+                        "Let me think about it. +0"
+                    ]
+                ]
+            },
+            {
+                "header": "Rank 9 \u2013 MAX",
+                "sub": "Story Progression",
+                "entries": []
+            }
+        ]
+    },
+    {
+        "confidant": "Councillor (Takuto Maruki)",
+        "data": [
+            {
+                "header": "Benefits:",
+                "sub": "",
+                "entries": [
+                    [
+                        "Rank",
+                        "Ability",
+                        "Description"
+                    ],
+                    [
+                        "2",
+                        "Detox X",
+                        "When Joker is inflicted with an ailment, he may recover immediately."
+                    ],
+                    [
+                        "3",
+                        "Flow",
+                        "Chance to receive the effects of Charge and Concentrate at the start of battle."
+                    ],
+                    [
+                        "5",
+                        "Mindfulness",
+                        "Chance to restore Joker\u2019s SP when it is low."
+                    ],
+                    [
+                        "7",
+                        "Flow Boost",
+                        "Raises the chance of Flow succeeding."
+                    ],
+                    [
+                        "9",
+                        "Detox DX",
+                        "Raises the chance of Detox X succeeding."
+                    ]
+                ]
+            },
+            {
+                "header": "Rank 2",
+                "sub": "",
+                "entries": [
+                    [
+                        "Response 1",
+                        "Didn\u2019t have much choice. +0",
+                        "We made a deal. +2",
+                        "I\u2019m a little nervous. +2"
+                    ],
+                    [
+                        "Response 2",
+                        "It\u2019s in the past. +0",
+                        "I\u2019m doing okay now. +0",
+                        "So much for privacy. +0"
+                    ],
+                    [
+                        "Response 3",
+                        "But it sounds right. +3",
+                        "Yep. +2",
+                        "Kinda creeping me out here. +0"
+                    ],
+                    [
+                        "Response 4",
+                        "So\u2026 what? +0",
+                        "I\u2019ll need more details. +0",
+                        "Uh\u2026 +0"
+                    ],
+                    [
+                        "Response 5",
+                        "Well, okay. +2",
+                        "Better make it worth it. +0",
+                        "Why me, though? +0"
+                    ]
+                ]
+            },
+            {
+                "header": "Rank 3",
+                "sub": "",
+                "entries": [
+                    [
+                        "Response 1",
+                        "So they have, huh? +2",
+                        "You worry too much. +0",
+                        "Thanks to you, probably. +2"
+                    ],
+                    [
+                        "Response 2",
+                        "Of course. +2",
+                        "Yeah, for our deal. +2",
+                        "I forgot. +0"
+                    ],
+                    [
+                        "Response 3",
+                        "When someone betrays me. +0",
+                        "When I lie. +0",
+                        "When I get punched. +0"
+                    ],
+                    [
+                        "Response 4",
+                        "That one seems necessary +2",
+                        "We\u2019d be better off without it. +0",
+                        "It\u2019s a seed for new loves. +2"
+                    ],
+                    [
+                        "Response 5",
+                        "Did that help? +2",
+                        "Don\u2019t worry about it. +2",
+                        ""
+                    ],
+                    [
+                        "Followup",
+                        "Good work over there. +2",
+                        "So you\u2019re actually working? +0",
+                        "Getting to your research now? +0"
+                    ]
+                ]
+            },
+            {
+                "header": "Rank 4",
+                "sub": "",
+                "entries": [
+                    [
+                        "Response 1",
+                        "Where\u2019s this coming from? +0",
+                        "What are you talking about? +0",
+                        ""
+                    ],
+                    [
+                        "Response 2",
+                        "I know, right\u2026? +3",
+                        "It\u2019s not the worst. +0",
+                        "Talk about a reward. +2"
+                    ],
+                    [
+                        "Response 3",
+                        "That\u2019d be great. +2",
+                        "Is that possible? +0",
+                        "Is that what you\u2019re researching? +3"
+                    ],
+                    [
+                        "Response 4",
+                        "\u2026\u2026 +0",
+                        "Are you okay? +0",
+                        ""
+                    ],
+                    [
+                        "Response 5",
+                        "That\u2019s a grand plan. +2",
+                        "You\u2019re so kind. +2",
+                        ""
+                    ],
+                    [
+                        "Response 6",
+                        "That sounds fun. +3",
+                        "I\u2019m not the \u201cfree labor\u201d type. +0",
+                        "Nope. +0"
+                    ],
+                    [
+                        "Followup",
+                        "I\u2019m completely fine. +2",
+                        "It\u2019s part of our deal, so\u2026 +2",
+                        "I\u2019m struggling, to be honest. +0"
+                    ]
+                ]
+            },
+            {
+                "header": "Rank 5",
+                "sub": "",
+                "entries": [
+                    [
+                        "Response 1",
+                        "This looks great! +3",
+                        "How old do you think I am? +0",
+                        "I could just take cash\u2026 +2"
+                    ],
+                    [
+                        "Response 2",
+                        "The one-cookie container. +0",
+                        "The ten-cookie container. +0",
+                        "It was a tie. +0"
+                    ],
+                    [
+                        "Response 3",
+                        "I never considered that. +0",
+                        "They\u2019re getting played. +2",
+                        "You know, you\u2019re right. +3"
+                    ],
+                    [
+                        "Response 4",
+                        "My senses lied to me! +2",
+                        "Hey, as long as it tastes good. +2",
+                        "It\u2019s a little scary.\u00a0 +0"
+                    ],
+                    [
+                        "Response 5",
+                        "Not \u201ctruth\u201d exactly\u2026 +0",
+                        "I guess so. +2",
+                        "I don\u2019t know. +0"
+                    ],
+                    [
+                        "Followup",
+                        "I really don\u2019t mind. +2",
+                        "Come on, man. +0",
+                        "It was thought-provoking. +2"
+                    ]
+                ]
+            },
+            {
+                "header": "Rank 6",
+                "sub": "",
+                "entries": [
+                    [
+                        "Response 1",
+                        "You wanted to talk? +0",
+                        "Another cup? +2",
+                        "We\u2019ve got curry, too. +2"
+                    ],
+                    [
+                        "Response 2",
+                        "I can do that. +3",
+                        "It\u2019s a deal. +2",
+                        "I\u2019m not up for this\u2026 +0"
+                    ],
+                    [
+                        "Response 3",
+                        "Isn\u2019t that enough? +0",
+                        "You need more than that? +0",
+                        ""
+                    ],
+                    [
+                        "Response 4",
+                        "So what CAN we do? +0",
+                        "It\u2019s a hard question\u2026 +0",
+                        "So give up. +2"
+                    ],
+                    [
+                        "Response 5",
+                        "All hearts share some things. +0",
+                        "What if they\u2019re connected? +0",
+                        ""
+                    ],
+                    [
+                        "Response 6",
+                        "Calm down. +0",
+                        "Where\u2019s this coming from? +0",
+                        "Cognitive pscience? +0"
+                    ],
+                    [
+                        "Followup",
+                        "Calm down. +2",
+                        "What\u2019s going on? +2",
+                        "Heavy breathing? Pervert. +0"
+                    ]
+                ]
+            },
+            {
+                "header": "Rank 7",
+                "sub": "",
+                "entries": [
+                    [
+                        "Response 1",
+                        "You really are dedicated. +3",
+                        "Are they even relevant? +3",
+                        "Are you a fan? +3"
+                    ],
+                    [
+                        "Response 2",
+                        "No idea. +3",
+                        "As in, removing them? +3",
+                        "How about you Maruki? +3"
+                    ],
+                    [
+                        "Response 3",
+                        "The change of heart\u2026? +3",
+                        "\u2026\u2026 +3",
+                        ""
+                    ],
+                    [
+                        "Response 4",
+                        "I have no clue. +3",
+                        "Sounds pretty far-fetched. +3",
+                        "It\u2019s intriguing. +3"
+                    ]
+                ]
+            },
+            {
+                "header": "Rank 8",
+                "sub": "",
+                "entries": [
+                    [
+                        "Response 1",
+                        "I\u2019m good on cookies, thanks. +2",
+                        "What do you mean? +3",
+                        "Thanks, but I should get going. +0"
+                    ],
+                    [
+                        "Response 2",
+                        "Ooh, really? +3",
+                        "Can you afford that? +2",
+                        "Sorry, I prefer sushi. +2"
+                    ],
+                    [
+                        "Response 3",
+                        "Thanks for the food! +3",
+                        "Self-control much? +0",
+                        "This is quite the spread. +2"
+                    ],
+                    [
+                        "Response 4",
+                        "I\u2019m his pupil. +2",
+                        "It\u2019s complicated. +0",
+                        "We\u2019ve made a deal. +3"
+                    ],
+                    [
+                        "Response 5",
+                        "Congratulations. +3",
+                        "Way to go. +3",
+                        ""
+                    ],
+                    [
+                        "Response 6",
+                        "I sure do. +3",
+                        "Let\u2019s celebrate. +3",
+                        ""
+                    ],
+                    [
+                        "Response 7",
+                        "She\u2019s a girlfriend of yours? +0",
+                        "Who\u2019s Rumi? +0",
+                        "Should I leave you two to talk? +0"
+                    ],
+                    [
+                        "Followup",
+                        "He\u2019s a good friend. +2",
+                        "Learn some independence. +0",
+                        "You\u2019ll get the tab next time. +0"
+                    ]
+                ]
+            },
+            {
+                "header": "Rank 9",
+                "sub": "",
+                "entries": [
+                    [
+                        "Response 1",
+                        "Yeah. +0",
+                        "Kind of. +0",
+                        ""
+                    ],
+                    [
+                        "Response 2",
+                        "Kind of sad\u2026 +3",
+                        "Is our deal over? +2",
+                        "Well\u2026 take care of yourself. +2"
+                    ]
+                ]
+            },
+            {
+                "header": "Rank MAX",
+                "sub": "Story Progression",
+                "entries": []
             }
         ]
     }

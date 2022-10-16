@@ -7,9 +7,9 @@
         cols="2"
         class="d-flex justify-content-center card-col"
       >
-      <nuxt-link :to="'/confidants/' + confidant.index">
+        <nuxt-link :to="'/confidants/' + confidant.index">
           <img :src="'img/' + confidant.name + '.jpg'" />
-      </nuxt-link>
+        </nuxt-link>
       </b-col>
     </b-row>
   </div>
@@ -26,7 +26,7 @@ export default Vue.extend({
     data.forEach(function (x: any, i: number) {
       confidantsData.push({
         name: x.confidant,
-        index: i+1,
+        index: i + 1,
       })
     })
 
@@ -37,7 +37,7 @@ export default Vue.extend({
 
   head() {
     return {
-      title: "Home"
+      title: 'Home',
     }
   },
 })
